@@ -1,4 +1,4 @@
-Luna
+Club Penguin Enhanced
 ====
 
 Club Penguin Server Emulator - AS2 Protocol
